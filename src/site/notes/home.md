@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"dg-home":true,"dg-note-icon":"02-mat/obs/img/logo-musiki-only.png","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"02-mat/obs/img/logo-musiki-only.png","created":"","updated":""}
 ---
 
 
